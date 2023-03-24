@@ -15,3 +15,8 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 print('Hello World')
+
+def m1():
+    return 1+2
+
+print(m1())
